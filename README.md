@@ -20,13 +20,14 @@ or seek help immediately. People would appreciate this due to its accessibility 
 going to a hospital is risky, and it is also difficult to make an appointment for a checkup.
 
 Requirements/Dependencies Used:
-
-Environment Setup for the project to run:
 ->Users have Windows 10 as their operating system.
 ->VMS: COVID-19 Monitor is developed and designed using Java in IntelliJ IDEA Ultimate. Hence, it is required that it is installed in the user’s computer.
 ->The versions of the program require the user to have Java 14 (Project SDK 14).
 ->They are assumed to have either a desktop or laptop computer that at least has low to moderate specifications to use the program smoothly.
 ->Login information/details should be noted or remembered by the user since it will not be saved by the program.
+
+Environment Setup for the project to run:
+1.
 
 Contributors:
 Khiel Caceres - Concept Maker and Back-end programmer
