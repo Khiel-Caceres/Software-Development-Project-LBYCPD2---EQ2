@@ -3,8 +3,9 @@ Project for LBYCPD2
 
 VerifyMySymptoms (VMS): COVID-19 Monitor
 
-Tasks for Back-End:
-1. Fix Login System
-2. Optimize symptoms checker system
-3. Research on database
-4. Implement database system
+Tasks for Front-End:
+1. Fix whole login system
+2. Interactions/Transitions of Login to different interfaces
+3. Connection of Report Bugs in Login to Admin Interface
+4. Find a way to make a different text file for each user type
+   where each user type account is saved there
