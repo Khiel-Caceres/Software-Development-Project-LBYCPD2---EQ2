@@ -1,7 +1,7 @@
 # Software-Development-Project-LBYCPD2---EQ2
 Project for LBYCPD2
 
-VerifyMySymptoms (VMS): COVID-19 Monitor
+**VerifyMySymptoms (VMS): COVID-19 Monitor**
 
 One of the problems people experience during this pandemic is determining if they have symptoms for 
 COVID-19 or not. This project is a program that mainly checks whether the user has mild, moderate or 
@@ -19,15 +19,19 @@ check if what they are feeling is problematic or not, so they would know if they
 or seek help immediately. People would appreciate this due to its accessibility especially now that 
 going to a hospital is risky, and it is also difficult to make an appointment for a checkup.
 
-Requirements/Dependencies Used:
-->Users have Windows 10 as their operating system.
-->VMS: COVID-19 Monitor is developed and designed using Java in IntelliJ IDEA Ultimate. Hence, it is required that it is installed in the user’s computer.
-->The versions of the program require the user to have Java 14 (Project SDK 14).
-->They are assumed to have either a desktop or laptop computer that at least has low to moderate specifications to use the program smoothly.
-->Login information/details should be noted or remembered by the user since it will not be saved by the program.
+**Requirements/Dependencies Used:**
+1. Users have Windows 10 as their operating system.
+2. VMS: COVID-19 Monitor is developed and designed using Java in IntelliJ IDEA Ultimate. Hence, it is required that it is installed in the user’s computer.
+3. The versions of the program require the user to have Java 14 (Project SDK 14).
+4. They are assumed to have either a desktop or laptop computer that at least has low to moderate specifications to use the program smoothly.
+5. Login information/details should be noted or remembered by the user since it will not be saved by the program.
 
-Environment Setup for the project to run:
-1.
+**Environment Setup for the project to run:**
+1. For the project to run, first is to install Java IntelliJ IDEA Ultimate. Refer to this link: https://www.jetbrains.com/help/idea/installation-guide.html
+2. After installing Java IntelliJ IDEA, download the zip file from the repository and extract the program file.
+3. Make sure to have Java 14 (Project SDK 14) installed in your IntelliJ. Refer to this link: https://www.jetbrains.com/help/idea/sdk.html#change-project-sdk
+4. Open IntelliJ IDEA and click the File tab on the upper right and click open. Navigate through your files and click the extracted Program File.
+5. Then, simply run the program by clicking the green play icon on the upper right.
 
 Contributors:
 Khiel Caceres - Concept Maker and Back-end programmer
