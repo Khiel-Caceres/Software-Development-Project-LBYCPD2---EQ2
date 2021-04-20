@@ -39,6 +39,8 @@ Khiel Caceres - Concept maker and back-end programmer
 
 Jude Ragudo - Front-end programmer
 
+
+
 **Revision Logs:**
 
 Tasks for Front-End (Jude Ragudo):
