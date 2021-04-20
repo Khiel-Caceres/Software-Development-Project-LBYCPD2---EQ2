@@ -33,9 +33,13 @@ going to a hospital is risky, and it is also difficult to make an appointment fo
 4. Open IntelliJ IDEA and click the File tab on the upper right and click open. Navigate through your files and click the extracted Program File.
 5. Then, simply run the program by clicking the green play icon on the upper right.
 
-Contributors:
-Khiel Caceres - Concept Maker and Back-end programmer
+**Contributors:**
+
+Khiel Caceres - Concept maker and back-end programmer
+
 Jude Ragudo - Front-end programmer
+
+**Revision Logs:**
 
 Tasks for Front-End (Jude Ragudo):
 1. Fix login system's remaining unfinished functionalities
