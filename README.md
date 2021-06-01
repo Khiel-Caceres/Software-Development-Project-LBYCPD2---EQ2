@@ -1,7 +1,7 @@
 # VerifyMySymptoms (VMS): COVID-19 Monitor
 Project for LBYCPD2 (EQ2)
 -----------------------------------------------------------------------------------------------------
-##INTRODUCTION
+## INTRODUCTION
 
 One of the problems people experience during this pandemic is determining if they have symptoms for 
 COVID-19 or not. This project is a program that mainly checks whether the user has mild, moderate or 
@@ -17,7 +17,7 @@ and cautious. Specifically, they would want to check if what they are feeling is
 so they would know if they should feel at ease or seek help immediately. People would appreciate this
 due to its accessibility especially now that going to a hospital is risky, and it is also difficult 
 to make an appointment for a checkup.
-
+-----------------------------------------------------------------------------------------------------
 **REQUIREMENTS/DEPENDENCIES:**
 1. Users have Windows 10 as their operating system.
 2. VMS: COVID-19 Monitor is developed and designed using Java in IntelliJ IDEA Ultimate. Hence, it is required that it is installed in the user’s computer.
@@ -41,6 +41,7 @@ to make an appointment for a checkup.
 
 **Jude Ragudo**  
 -Front-end programmer
+
 
 **REVISION LOGS:**
 
