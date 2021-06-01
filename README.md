@@ -1,6 +1,6 @@
 # VerifyMySymptoms (VMS): COVID-19 Monitor
 Project for LBYCPD2 (EQ2)
------------------------------------------------------------------------------------------------------
+
 -----------------------------------------------------------------------------------------------------
 **INTRODUCTION**
 
@@ -38,12 +38,12 @@ to make an appointment for a checkup.
 
 **Khiel Caceres** 
 
--Concept maker 
+  -Concept maker 
 
--Back-end programmer
+  -Back-end programmer
 
 **Jude Ragudo**  
--Front-end programmer
+  -Front-end programmer
 
 -----------------------------------------------------------------------------------------------------
 **REVISION LOGS:**
