@@ -1,7 +1,7 @@
 # VerifyMySymptoms (VMS): COVID-19 Monitor
 Project for LBYCPD2 (EQ2)
 -----------------------------------------------------------------------------------------------------
-**INTRODUCTION**
+##INTRODUCTION
 
 One of the problems people experience during this pandemic is determining if they have symptoms for 
 COVID-19 or not. This project is a program that mainly checks whether the user has mild, moderate or 
@@ -35,15 +35,17 @@ to make an appointment for a checkup.
 **CONTRIBUTORS:**
 
 **Khiel Caceres** 
+
 -Concept maker 
 -Back-end programmer
 
 **Jude Ragudo**  
 -Front-end programmer
 
-**Revision Logs:**
+**REVISION LOGS:**
 
 Tasks for Front-End (Jude Ragudo):
+
 ~~1. Fix login system's remaining unfinished functionalities~~
 
 ~~2. Interactions/transitions of Login to different interfaces~~
@@ -55,6 +57,7 @@ Tasks for Front-End (Jude Ragudo):
 ~~5. Finish functionalities of Patient, Nurse, Doctor, and Admin interfaces~~
 
 Tasks for Back-End (Khiel Caceres):
+
 ~~1. Fix Login System~~
 
 ~~2. Optimize symptoms checker system~~
