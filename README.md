@@ -25,33 +25,42 @@ to make an appointment for a checkup.
 4. They are assumed to have either a desktop or laptop computer that at least has low to moderate specifications to use the program smoothly.
 5. Login information/details should be noted or remembered by the user since it will not be saved by the program.
 
-**Environment Setup for the project to run:**
+**ENVIRONMENT SETUP FOR THE PROGRAM TO RUN:**
 1. For the project to run, first is to install Java IntelliJ IDEA Ultimate. Refer to this link: https://www.jetbrains.com/help/idea/installation-guide.html
 2. After installing Java IntelliJ IDEA, download the zip file from the repository and extract the program file.
 3. Make sure to have Java 14 (Project SDK 14) installed in your IntelliJ. Refer to this link: https://www.jetbrains.com/help/idea/sdk.html#change-project-sdk
 4. Open IntelliJ IDEA and click the File tab on the upper right and click open. Navigate through your files and click the extracted Program File.
 5. Then, simply run the program by clicking the green play icon on the upper right.
 
-**Contributors:**
+**CONTRIBUTORS:**
 
-Khiel Caceres - Concept maker and back-end programmer
+**Khiel Caceres** 
+-Concept maker 
+-Back-end programmer
 
-Jude Ragudo - Front-end programmer
-
-
+**Jude Ragudo**  
+-Front-end programmer
 
 **Revision Logs:**
 
 Tasks for Front-End (Jude Ragudo):
 ~~1. Fix login system's remaining unfinished functionalities~~
+
 ~~2. Interactions/transitions of Login to different interfaces~~
+
 ~~3. Connection of Report Bugs in Login to Admin Interface~~
+
 ~~4. Find a way to make a different text file for each user type where each user type account is saved there~~
+
 ~~5. Finish functionalities of Patient, Nurse, Doctor, and Admin interfaces~~
 
 Tasks for Back-End (Khiel Caceres):
 ~~1. Fix Login System~~
+
 ~~2. Optimize symptoms checker system~~
+
 ~~3. Research on database~~
+
 ~~4. Implement database system~~
+
 ~~5. Optimize each feature~~
