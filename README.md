@@ -1,6 +1,7 @@
 # VerifyMySymptoms (VMS): COVID-19 Monitor
 Project for LBYCPD2 (EQ2)
 -----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 **INTRODUCTION**
 
 One of the problems people experience during this pandemic is determining if they have symptoms for 
@@ -38,6 +39,7 @@ to make an appointment for a checkup.
 **Khiel Caceres** 
 
 -Concept maker 
+
 -Back-end programmer
 
 **Jude Ragudo**  
