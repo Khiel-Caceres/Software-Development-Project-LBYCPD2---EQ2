@@ -2,7 +2,7 @@
 Project for LBYCPD2 (EQ2)
 -----------------------------------------------------------------------------------------------------
 ## INTRODUCTION
-
+-----------------------------------------------------------------------------------------------------
 One of the problems people experience during this pandemic is determining if they have symptoms for 
 COVID-19 or not. This project is a program that mainly checks whether the user has mild, moderate or 
 severe COVID-19 symptoms. Due to the increasing number of COVID-19 cases in our country, the pandemic
