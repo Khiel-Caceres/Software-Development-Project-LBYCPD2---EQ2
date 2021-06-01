@@ -46,26 +46,26 @@ to make an appointment for a checkup.
 
 Tasks for *Front-End* (Jude Ragudo):
 
-1. Fix login system's remaining unfinished functionalities
+1. Fix login system's remaining unfinished functionalities (DONE)
 
-2. Interactions/transitions of Login to different interfaces
+2. Interactions/transitions of Login to different interfaces (DONE)
 
-3. Connection of Report Bugs in Login to Admin Interface
+3. Connection of Report Bugs in Login to Admin Interface (DONE)
 
-4. Find a way to make a different text file for each user type where each user type account is saved there
+4. Find a way to make a different text file for each user type where each user type account is saved there (DONE)
 
-5. Finish functionalities of Patient, Nurse, Doctor, and Admin interfaces
+5. Finish functionalities of Patient, Nurse, Doctor, and Admin interfaces (DONE)
 
 
 
 Tasks for *Back-End* (Khiel Caceres):
 
-1. Fix Login System
+1. Fix Login System (DONE)
 
-2. Optimize symptoms checker system
+2. Optimize symptoms checker system (DONE)
 
-3. Research on database
+3. Research on database (DONE)
 
-4. Implement database system
+4. Implement database system (DONE)
 
-5. Optimize each feature
+5. Optimize each feature (DONE)
